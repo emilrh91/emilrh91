@@ -6,7 +6,7 @@ I'm a passionate Front-end Web Developer currently honing my skills at Noroff in
 
 ## 💻 Skills 
 
-- **Web Development**: Proficient in JavaScript, Vue.js, HTML, and CSS, leveraging these tools to build and style dynamic webpages and applications.
+- **Web Development**: Proficient in JavaScript, Vue.js, HTML, Bootstrap, SCSS and CSS, leveraging these tools to build and style dynamic webpages and applications.
 - **Design**: Skilled in Figma for designing and prototyping user interfaces.
 - **Tools**: Experienced with Git, GitHub, VSCode, and Filezilla for version control, code editing, and file transfer management.
 
